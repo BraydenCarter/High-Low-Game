@@ -1,0 +1,10 @@
+C:\Users\brayd\source\repos\High Low Game\High Low Game\bin\Debug\High Low Game.exe.config
+C:\Users\brayd\source\repos\High Low Game\High Low Game\bin\Debug\High Low Game.exe
+C:\Users\brayd\source\repos\High Low Game\High Low Game\bin\Debug\High Low Game.pdb
+C:\Users\brayd\source\repos\High Low Game\High Low Game\obj\Debug\High Low Game.csprojAssemblyReference.cache
+C:\Users\brayd\source\repos\High Low Game\High Low Game\obj\Debug\High_Low_Game.frmHighLow.resources
+C:\Users\brayd\source\repos\High Low Game\High Low Game\obj\Debug\High_Low_Game.Properties.Resources.resources
+C:\Users\brayd\source\repos\High Low Game\High Low Game\obj\Debug\High Low Game.csproj.GenerateResource.cache
+C:\Users\brayd\source\repos\High Low Game\High Low Game\obj\Debug\High Low Game.csproj.CoreCompileInputs.cache
+C:\Users\brayd\source\repos\High Low Game\High Low Game\obj\Debug\High Low Game.exe
+C:\Users\brayd\source\repos\High Low Game\High Low Game\obj\Debug\High Low Game.pdb
